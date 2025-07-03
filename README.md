@@ -1,7 +1,9 @@
 # CursoAereoPredict
 Curso introductorio a AereoPredict.
-    Curso de Introducción al MRO: 
-            En este primer curso abordaremos lo necesario lo básico, terminós comunes, estructuras bases, motores, tipos de motores, ¿como funcionan?, ¿que son?, ejemplos, etc.
+    
+Curso de Introducción al MRO: 
+
+En este primer curso abordaremos lo necesario para tener una base y entender temas más complejos, en cursos más avanzados.
         
 
 
